@@ -1,0 +1,1 @@
+# Visual Style\n\n- Overall look:\n- Lighting:\n- Camera language:\n- Texture / atmosphere:\n- Historical accuracy rules:\n- Things to avoid:\n

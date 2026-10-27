@@ -1,0 +1,33 @@
+# Video and editing cache
+*.pek
+*.cfa
+*.tmp
+*.temp
+*.autosave
+*.prproj.cache
+*.aep.cache
+Adobe Premiere Pro Auto-Save/
+Adobe After Effects Auto-Save/
+Media Cache/
+Media Cache Files/
+Cache/
+Temp/
+
+# Large media: keep in shared storage unless the team agrees to use Git LFS
+*.mp4
+*.mov
+*.mxf
+*.avi
+*.mkv
+*.wav
+*.aiff
+*.psd
+*.psb
+*.aep
+*.prproj
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/

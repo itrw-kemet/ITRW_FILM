@@ -1,0 +1,1 @@
+# Character and Environment Consistency\n\nRecord recurring character descriptions, costume details, architecture, time period, and continuity constraints.\n

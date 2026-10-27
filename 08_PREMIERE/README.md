@@ -1,0 +1,1 @@
+# Premiere Pro\n\nDocument sequence settings, edit versions, review notes, and links to project files in shared storage. Do not commit caches or raw media.\n

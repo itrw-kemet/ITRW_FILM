@@ -1,0 +1,1 @@
+# Meeting Notes\n\n## YYYY-MM-DD\n- **Attendees:**\n- **Decisions:**\n- **Action items:**\n- **Owner / due date:**\n- **Open questions:**\n

@@ -1,0 +1,1 @@
+# Environment Assets\n\nList temples, landscapes, settlements, and other environments here.\n

@@ -1,0 +1,1 @@
+# Asset Licenses\n\nFor every third-party image, video, music track, font, or sound effect, record its creator, source URL, license, attribution text, and intended use.\n
