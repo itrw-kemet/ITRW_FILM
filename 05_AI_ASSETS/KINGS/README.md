@@ -1,1 +1,0 @@
-# Kings Assets\n\nList royal figures, costumes, and historically grounded references here.\n

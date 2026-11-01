@@ -1,1 +1,0 @@
-# Transitions\n\nDocument transition prompts, source shots, and target shots here.\n
