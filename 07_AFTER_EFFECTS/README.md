@@ -1,1 +1,0 @@
-# After Effects\n\nDocument compositions, motion graphics, render settings, and links to project files in shared storage. Do not commit caches.\n
