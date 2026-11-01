@@ -1,1 +1,0 @@
-# Credits and Rights\n\nKeep the team credits and asset permissions up to date.\n
